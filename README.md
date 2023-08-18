@@ -1,6 +1,6 @@
 ## Startech NOTECONS02 USB Crash Cart Adapter software, version 118.1017
 * Repackaged as AppImage (x86_64)
-* List of supported and testing Linux distributions
+* List of supported and tested Linux distributions
 
 
   - Debian 12 (GNOME3, KDE, XFCE)
