@@ -26,3 +26,25 @@
   * removed `libz.so.1`
   * removed `libstdc++.so.6`
   * replaced `ffmpeg-lin` with static build of ffmpeg release 6.0
+
+## Using AppImage package
+
+AppImage file can be launched from GUI or CLI. You will need to initially use CLI to create persistent UDEV rule for your Startech adapter device.
+
+Show supported list of Linux distributions.
+
+```console
+./Startech-NOTECONS02-USB-Crash-Cart-Adapter-2308190024-x86_64.AppImage supported
+```
+
+Show version of current AppImage build.
+
+```console
+./Startech-NOTECONS02-USB-Crash-Cart-Adapter-2308190024-x86_64.AppImage version
+```
+
+Create persistent UDEV rule on your system. Without this step, Startech software won't be able to access adapter device if you're running AppImage as a non-root user.
+
+```console
+sudo ./Startech-NOTECONS02-USB-Crash-Cart-Adapter-2308190024-x86_64.AppImage udev-install
+```
