@@ -1,4 +1,6 @@
 ## Startech NOTECONS02 USB Crash Cart Adapter software, version 118.1017
+
+![startech256.png](startech256.png)
 * Repackaged as AppImage (x86_64)
 * [Download Link (~65MB)](https://app.inode.ws/index.php/s/ZFfjC5PwRko4zM2/download/Startech-NOTECONS02-USB-Crash-Cart-Adapter-2308190024-x86_64.AppImage)
 * To be used with the following hardware:
