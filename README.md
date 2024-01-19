@@ -2,25 +2,13 @@
 
 ![startech256.png](misc/startech256.png)
 * Repackaged as AppImage (x86_64)
-* [Download Link (~65MB)](https://github.com/gwojcieszczuk/StartechNotecons02/raw/main/releases/Startech-NOTECONS02-USB-Crash-Cart-Adapter-2308190024-x86_64.AppImage)
+* [Download Link](https://webserver.inode.ws/Startech/Startech-NOTECONS02-USB-Crash-Cart-Adapter-2401191147-x86_64.AppImage)
 * To be used with the following hardware:
    * [https://www.startech.com/en-us/server-management/notecons02](https://www.startech.com/en-us/server-management/notecons02)
    * [https://www.startech.com/en-us/server-management/notecons02x](https://www.startech.com/en-us/server-management/notecons02x)
 * List of supported and tested Linux distributions
 
-
-  - Debian 12 (GNOME3, KDE, XFCE)
-  - Ubuntu 20.04 LTS (GNOME3, KDE, XFCE)
-  - Ubuntu 22.04 LTS (GNOME3, KDE, XFCE)
-  - Ubuntu 23.04 (GNOME3, KDE, XFCE)
-  - Fedora 38
-  - MX Linux 23
-  - Manjaro (rolling)
-  - openSUSE Tumbleweed (rolling)
-  - openSUSE Leap 15.5
-  - Linux Mint 21.2
-  - RHEL 8.x
-  - RHEL 9.x
+  Anything older than Ubuntu 20.04 LTS should work.
 
 <br>
 
