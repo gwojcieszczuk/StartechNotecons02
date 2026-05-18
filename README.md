@@ -2,7 +2,7 @@
 
 ![startech256.png](misc/startech256.png)
 * Repackaged as AppImage (x86_64)
-* [Download Link](blob:https://github.com/a7f19343-1d9d-476e-ab8b-eee1e6c02357)
+* [Download Link](https://github.com/gwojcieszczuk/StartechNotecons02/raw/refs/heads/main/releases/Startech-NOTECONS02-USB-Crash-Cart-Adapter-2401191147-x86_64.AppImage)
 * To be used with the following hardware:
    * [https://www.startech.com/en-us/server-management/notecons02](https://www.startech.com/en-us/server-management/notecons02)
    * [https://www.startech.com/en-us/server-management/notecons02x](https://www.startech.com/en-us/server-management/notecons02x)
